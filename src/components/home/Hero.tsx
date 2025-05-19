@@ -36,8 +36,8 @@ const Hero = () => {
       id="home"
       className="relative pt-32 pb-16 bg-white dark:bg-codesprint-blue"
     >
-      {/* Contenedor para la animación como fondo */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {/* Contenedor para la animación como fondo - oculto en móviles */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none hidden lg:block">
         <NetworkAnimation />
       </div>
       
