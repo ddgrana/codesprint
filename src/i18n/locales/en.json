@@ -1,0 +1,106 @@
+
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "contact": "Contact",
+    "startNow": "Start Now"
+  },
+  "hero": {
+    "title": "Agile development,",
+    "titleHighlight": "intelligent automation.",
+    "description": "Boost your business with intelligent automation and agile development. At CodeSprint, we transform complex processes into fast and effective solutions.",
+    "services": "Our services",
+    "caseStudies": "View case studies"
+  },
+  "language": {
+    "es": "ES",
+    "en": "EN"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We prioritize agility, delivering high-level solutions in record time. Our sprints last 15 days to ensure speed without compromising quality.",
+    "items": {
+      "webDesign": {
+        "title": "Web Design with Lovable and Cursor",
+        "description": "Development of custom websites with low-code tools. Fast and efficient solutions with modern and responsive design."
+      },
+      "makeAutomation": {
+        "title": "Process Automation with Make",
+        "description": "Connection of multiple applications to automate workflows. Integration with third-party platforms for repetitive task management."
+      },
+      "pythonAutomation": {
+        "title": "Process Automation with Python",
+        "description": "Custom scripts to automate specific business processes. Integration of automation in legacy systems or custom applications."
+      },
+      "dataAnalysis": {
+        "title": "Data Analysis and Clustering with Python",
+        "description": "Analysis of large volumes of data to identify patterns. Customer segmentation, trend analysis and insight generation."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Case Studies",
+    "subtitle": "Real stories of digital transformation and process optimization",
+    "items": [
+      {
+        "title": "Development of Documentation Automation System with Python",
+        "description": "Implementation of automated system for technical documentation of the Bogotá Metro project, optimizing processes and reducing document management times.",
+        "category": "Automation",
+        "company": "WSP"
+      },
+      {
+        "title": "Web Development for Technical Talent Connection",
+        "description": "Design and implementation of a complete website for a startup that connects technical talent between Colombia and Germany, facilitating the internationalization of professionals.",
+        "category": "Web Development",
+        "company": "BlueBridge"
+      },
+      {
+        "title": "Data Analysis for Overdue Portfolio Collection",
+        "description": "Implementation of clustering algorithms to identify high-risk populations for non-payment, optimizing the bank's portfolio recovery strategies.",
+        "category": "Data Analysis",
+        "company": "Davivienda"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Talk About Your Project",
+    "subtitle": "Schedule a call with us to discuss your project.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number", 
+      "company": "Company (optional)",
+      "message": "How can we help you?",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "successMessage": "Message sent",
+      "successDescription": "Thank you for contacting us. We will respond shortly.",
+      "errorMessage": "Error sending message",
+      "errorDescription": "There was a problem submitting your form. Please try again."
+    }
+  },
+  "footer": {
+    "aboutUs": "About us",
+    "services": {
+      "webDesign": "Web Design",
+      "makeAutomation": "Make Automations",
+      "pythonAutomation": "Python Automation",
+      "dataAnalysis": "Data Analysis"
+    },
+    "legal": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookies": "Cookies"
+    },
+    "copyright": "All rights reserved.",
+    "contactInfo": {
+      "title": "Contact",
+      "email": "info@codesprint.dev",
+      "phone": "+57 3012002547",
+      "phoneTitle": "Phone"
+    }
+  }
+}

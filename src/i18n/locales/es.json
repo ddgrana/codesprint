@@ -1,0 +1,106 @@
+
+{
+  "navbar": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "caseStudies": "Casos de éxito",
+    "contact": "Contacto",
+    "startNow": "Empezar ahora"
+  },
+  "hero": {
+    "title": "Desarrollo ágil,",
+    "titleHighlight": "automatización inteligente.",
+    "description": "Impulsa tu negocio con automatización inteligente y desarrollo ágil. En CodeSprint, transformamos procesos complejos en soluciones rápidas y efectivas.",
+    "services": "Nuestros servicios",
+    "caseStudies": "Ver casos de éxito"
+  },
+  "language": {
+    "es": "ES",
+    "en": "EN"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Priorizamos la agilidad, entregando soluciones de muy alto nivel en tiempo récord. Nuestros sprints son de 15 días para garantizar rapidez sin comprometer la calidad.",
+    "items": {
+      "webDesign": {
+        "title": "Diseño web mediante Lovable y Cursor",
+        "description": "Desarrollo de páginas web personalizadas con herramientas low-code. Soluciones rápidas y eficientes con diseño moderno y adaptable."
+      },
+      "makeAutomation": {
+        "title": "Automatizaciones de procesos mediante Make",
+        "description": "Conexión de múltiples aplicaciones para automatizar flujos de trabajo. Integración con plataformas de terceros para gestión de tareas repetitivas."
+      },
+      "pythonAutomation": {
+        "title": "Automatización de procesos mediante Python",
+        "description": "Scripts personalizados para automatizar procesos empresariales específicos. Integración de automatización en sistemas heredados o aplicaciones personalizadas."
+      },
+      "dataAnalysis": {
+        "title": "Análisis y clustering de datos mediante Python",
+        "description": "Análisis de grandes volúmenes de datos para identificar patrones. Segmentación de clientes, análisis de tendencias y generación de insights."
+      }
+    }
+  },
+  "caseStudies": {
+    "title": "Casos de éxito",
+    "subtitle": "Historias reales de transformación digital y optimización de procesos",
+    "items": [
+      {
+        "title": "Desarrollo de sistema de automatización de documentación con Python",
+        "description": "Implementación de sistema automatizado para la documentación técnica del proyecto del Metro de Bogotá, optimizando procesos y reduciendo tiempos de gestión documental.",
+        "category": "Automatización",
+        "company": "WSP"
+      },
+      {
+        "title": "Desarrollo web para conexión de talento técnico",
+        "description": "Diseño e implementación del sitio web completo para startup que conecta talento técnico entre Colombia y Alemania, facilitando la internacionalización de profesionales.",
+        "category": "Desarrollo Web",
+        "company": "BlueBridge"
+      },
+      {
+        "title": "Análisis de datos para cobros de cartera vencida",
+        "description": "Implementación de algoritmos de clustering para identificar poblaciones de alto riesgo de no pago, optimizando las estrategias de recuperación de cartera del banco.",
+        "category": "Análisis de Datos",
+        "company": "Davivienda"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos de tu proyecto",
+    "subtitle": "Agenda una llamada con nosotros para discutir tu proyecto.",
+    "form": {
+      "title": "Envíanos un mensaje",
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "company": "Empresa (opcional)",
+      "message": "¿Cómo podemos ayudarte?",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "successMessage": "Mensaje enviado",
+      "successDescription": "Gracias por contactarnos. Te responderemos a la brevedad.",
+      "errorMessage": "Error al enviar el mensaje",
+      "errorDescription": "Hubo un problema al enviar tu formulario. Por favor, inténtalo de nuevo."
+    }
+  },
+  "footer": {
+    "aboutUs": "Sobre nosotros",
+    "services": {
+      "webDesign": "Diseño web",
+      "makeAutomation": "Automatizaciones con Make",
+      "pythonAutomation": "Automatización con Python",
+      "dataAnalysis": "Análisis de datos"
+    },
+    "legal": {
+      "terms": "Términos",
+      "privacy": "Privacidad",
+      "cookies": "Cookies"
+    },
+    "copyright": "Todos los derechos reservados.",
+    "contactInfo": {
+      "title": "Contacto",
+      "email": "info@codesprint.dev",
+      "phone": "+57 3012002547",
+      "phoneTitle": "Teléfono"
+    }
+  }
+}
